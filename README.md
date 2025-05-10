@@ -32,5 +32,3 @@
 
 ---
 
-## 📁 Folder Structure
-
